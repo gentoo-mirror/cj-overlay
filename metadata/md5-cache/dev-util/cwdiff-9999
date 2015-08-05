@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=f41ebb9a68b2d3e4ad83801a7370c1ce
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DEPEND=sys-apps/help2man sys-apps/coreutils >=dev-vcs/git-1.8.2.1
+DESCRIPTION=A script that wraps wdiff to support directories and colorize the output
+LICENSE=GPL-2
+IUSE=a2ps mercurial
+HOMEPAGE=https://github.com/junghans/cwdiff
+RDEPEND=sys-apps/sed app-shells/bash app-text/wdiff sys-apps/diffutils a2ps? ( app-text/a2ps ) mercurial? ( dev-vcs/mercurial )
