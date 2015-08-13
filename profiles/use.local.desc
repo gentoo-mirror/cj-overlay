@@ -1,0 +1,8 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-portage/showbuild:tailf - use tailf from sys-apps/util-linux instead of 'tail -f' from sys-apps/coreutils
+dev-util/cwdiff:a2ps - install app-text/a2ps for postscript output
+dev-util/cwdiff:mercurial - install hg wdiff alias for dev-vcs/mercurial
+sci-misc/evergreens:vim - install app-editors/vim related scripts
