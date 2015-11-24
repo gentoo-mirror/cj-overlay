@@ -1,7 +1,7 @@
-app-portage/showbuild 0.9: Script to follow log of running portage builds
+app-portage/showbuild 0.9: 
 dev-util/ccache-utils 0.1: Some useful ccache wrappers
-dev-util/cwdiff 9999: A script that wraps wdiff to support directories and colorize the output
-net-wireless/rfkill-toogle 2: script to toggle rfkill status
+dev-util/cwdiff 9999: 
+net-wireless/rfkill-toogle 2: 
 sci-misc/evergreens 9999: Christoph's useful scripts
 sci-visualization/gnuplotutils 9999: Some useful scripts for gnuplot
-sys-kernel/kernel-set 1: portage kernel set, prevents kernels from been depcleaned
+sys-kernel/kernel-set 1: 
