@@ -3,5 +3,4 @@
 # * generated automatically using pmaint *
 
 app-portage/showbuild:tailf - use tailf from sys-apps/util-linux instead of 'tail -f' from sys-apps/coreutils
-dev-util/cwdiff:mercurial - install hg wdiff alias for dev-vcs/mercurial
 sci-misc/evergreens:vim - install app-editors/vim related scripts
