@@ -1,5 +1,5 @@
 app-emulation/virtualbox-init-scripts 1: init.d script to stop vms on shutdown
-app-portage/showbuild 0.9: Script to follow log of running portage builds
+app-portage/showbuild 0.9.1: Script to follow log of running portage builds
 dev-util/ccache-utils 0.1: Some useful ccache wrappers
 net-wireless/rfkill-toogle 2: script to toggle rfkill status
 sci-misc/evergreens 9999: Christoph's useful scripts
