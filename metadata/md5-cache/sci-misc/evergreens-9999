@@ -7,5 +7,5 @@ IUSE=examples tk vim
 LICENSE=GPL-2
 RDEPEND=dev-lang/perl sys-apps/sed app-shells/bash sys-apps/grep dev-util/cwdiff sys-apps/coreutils kernel_linux? ( sys-fs/inotify-tools ) vim? ( app-editors/vim ) tk? ( dev-util/tkdiff )
 SLOT=0
-_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
+_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
 _md5_=db89ec8b446b3f36f139f708a11e06e0
