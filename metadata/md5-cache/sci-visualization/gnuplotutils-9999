@@ -1,10 +1,10 @@
 DEFINED_PHASES=install unpack
-DEPEND=sys-apps/help2man >=dev-vcs/git-1.8.2.1
+DEPEND=sys-apps/help2man >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Some useful scripts for gnuplot
 EAPI=4
 HOMEPAGE=https://github.com/junghans/gnuplotutils
 LICENSE=GPL-2
 RDEPEND=dev-lang/perl sys-apps/sed sci-visualization/gnuplot virtual/latex-base app-text/ghostscript-gpl sys-apps/coreutils
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=c9b785f1074a87dc4230739d0d1efe84
