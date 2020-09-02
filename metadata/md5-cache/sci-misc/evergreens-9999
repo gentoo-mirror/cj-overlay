@@ -8,5 +8,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-lang/perl sys-apps/sed app-shells/bash sys-apps/grep dev-util/cwdiff sys-apps/coreutils kernel_linux? ( sys-fs/inotify-tools ) vim? ( app-editors/vim ) tk? ( dev-util/tkdiff )
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=db89ec8b446b3f36f139f708a11e06e0
