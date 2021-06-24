@@ -1,8 +1,8 @@
 DEFINED_PHASES=install
 DESCRIPTION=init.d script to stop vms on shutdown
-EAPI=5
+EAPI=8
 HOMEPAGE=https://bugs.gentoo.org/show_bug.cgi?id=403337
 LICENSE=GPL-2
 RDEPEND=app-emulation/virtualbox
 SLOT=0
-_md5_=54514a6ed055755576dec14f2a0e8c2d
+_md5_=ab4fcf51fa1eea7a9d3c412d997b3911

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Christoph's useful scripts
+EAPI=8
+HOMEPAGE=https://github.com/junghans/evergreens
+INHERIT=git-r3
+IUSE=examples tk vim
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=dev-lang/perl sys-apps/sed app-shells/bash sys-apps/grep dev-util/cwdiff sys-apps/coreutils kernel_linux? ( sys-fs/inotify-tools ) vim? ( app-editors/vim ) tk? ( dev-util/tkdiff )
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=89564a92958872941749fe0f4402a0bc

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=sys-apps/help2man
+DESCRIPTION=Some useful scripts for gnuplot
+EAPI=8
+HOMEPAGE=https://github.com/junghans/gnuplotutils
+INHERIT=git-r3
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=dev-lang/perl sys-apps/sed sci-visualization/gnuplot virtual/latex-base app-text/ghostscript-gpl sys-apps/coreutils
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=88ea51bf60daa8d6c87661eab6c68802
