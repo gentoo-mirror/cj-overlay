@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-lang/perl sys-apps/sed sci-visualization/gnuplot virtual/latex-base app-text/ghostscript-gpl sys-apps/coreutils
 SLOT=0
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=88ea51bf60daa8d6c87661eab6c68802
